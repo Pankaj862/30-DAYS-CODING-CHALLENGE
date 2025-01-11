@@ -6,3 +6,4 @@
 # DAY-5 Solved pattern problems in c++
 # DAY-6 Practice more pattern problems
 # DAY-8 Revise all the basics topics of c++
+# DAY-10 Revise the Html and Css 
